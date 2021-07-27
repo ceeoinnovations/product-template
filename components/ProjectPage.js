@@ -34,6 +34,7 @@ export function ProjectDetail(d, about){
                     </p>
                     ${CodeSnippet(d.code)}
                     ${CustomButton(d.url, d.urlLabel)}
+                    ${FilesButton(d.files)}
                     <div class="project-tags" style="color: #a7a6a6;">
                         By ${d.authors}
                     </div>
@@ -113,6 +114,19 @@ export function CustomButton(url, urlLabel){
         return `
         <a href="${url}" target="_blank">
             <button class="button" style="margin-top: 30px; margin-bottom: 50px;">${urlLabel}</button>
+        </a>
+
+        `;
+    }
+}
+
+export function FilesButton(files){
+    if (files==="") {
+        return '';
+    }else {
+        return `
+        <a href="${files}" target="_blank">
+            <button class="button" style="margin-top: 30px; margin-bottom: 50px;">Download Files</button>
         </a>
 
         `;
