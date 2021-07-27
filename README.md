@@ -33,7 +33,7 @@
 6. Go to `components/Navbar.js` and update the hyperlink with your GitHub repository name (line #7) 
 * It should be all lowercase and have no space 
 8. To publish your website, go to `Settings`, click `Pages`, select `main` as a source, and save. You can find your website link there.
-9. Update `readme.md` in your GitHub repository. Get rid of all the instructions except for the Links section on top. Replace all links with yours
+9. Update `readme.md` in your GitHub repository. Replace the links on the top of this page with yours
 
 ## How to Add a Theme ##
 1. Open the `themes` spreadsheets and add a row to it with a new theme information
