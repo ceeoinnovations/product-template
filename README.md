@@ -27,19 +27,20 @@
 3. Select `ceeoinnovations` as owner. Name the repository with your hackathon name. Make it `public`
 * Use **lowercase** for repository name
 * Repository name should be unique and it describes your product (e.g., SPIKE Prime Backpack) 
-4. Go to `index.js` and replace the existing csv file URLs (line #9, #10) with yours. 
-* To get links to your Google Sheets, open the spreadsheets; click `File` and then `Publish to the web`. Select `Entire Document` and `csv` then click `Publish`. The first csv file URL is for about and the second one is for projects
+4. Go to `index.js` and replace the existing csv file URLs (line #9, #10, #11) with yours. 
+* To get links to your Google Sheets, open the spreadsheets; click `File` and then `Publish to the web`. Select `Entire Document` and `csv` then click `Publish`. The csv file URLs are for about, themes, and projects in order
 5. Go to `index.html` and edit title (line #4). 
 6. Go to `components/Navbar.js` and update the hyperlink with your GitHub repository name (line #7) 
-7. To publish your website, go to `Settings`, click `Pages`, select `main` as a source, and save. You can find your website link there.
-8. Update `readme.md` in your GitHub repository. Get rid of all the instructions except for the Links section on top. Replace all three links with yours
+* It should be all lowercase and have no space 
+8. To publish your website, go to `Settings`, click `Pages`, select `main` as a source, and save. You can find your website link there.
+9. Update `readme.md` in your GitHub repository. Get rid of all the instructions except for the Links section on top. Replace all links with yours
 
 ## How to Add a Theme ##
 1. Open the `themes` spreadsheets and add a row to it with a new theme information
 2. Open the `Submission Form` and add an option with your theme name to the first question
 * Make sure that the name is the same to what you use in `themes`
 
-## Project Submission ##
+## How to Submit a Project ##
 * Share a website link with people and ask them to click `Submit Project` to submit their data
 * If you want to hide a specific project, open the `projects` sheets and create a new tab named `hidden`. Move the project data to the `hidden` tab
 * Go to your website to see updates. It may take a couple of minutes to get updated
