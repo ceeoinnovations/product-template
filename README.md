@@ -12,7 +12,7 @@
 3. Create a folder named Resources
 * `Resources`: a folder where you can upload any files to share regarding the product. **Change sharing permission** of this folder so that `Anyone can view`
 3. Open the form in Google Drive. Once an alert is prompted, restore the folder containing responses to File Upload question. 
-* `Submit your project (File responses)`: a folder for images and videos will be restored. **Change sharing permission** of this folder so that `Anyone can view`
+* `Submit your project (File responses)`: a folder where submitted files will be stored. **Change sharing permission** of this folder so that `Anyone can view`
 4. In the form, click `Responses` and click More icon on the right. Click `Select response destination`. Choose an option of `Create a new spreadsheet`. Name that spreadsheet as `projects`
 5. Replace all the placeholder text with your data in the `about`sheet
 * `website`: you can get your website link once setting up GitHub
