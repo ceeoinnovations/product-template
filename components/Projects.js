@@ -107,8 +107,18 @@ export function UpdateThemeInfo(projects, theme){
         <a href="${theme[0].buttonlink}" target="_blank">
             <button class="button" style="margin-top: 30px; margin-bottom: 50px;">${theme[0].buttonlabel}</button>
         </a>
-        <a href="${theme[0].resources}" target="_blank">
-            <button class="button" style="margin-top: 30px; margin-bottom: 50px;">More Resources</button>
-        </a>
+        ${(ResourcesButton(theme[0].resources))}
     `
+}
+
+export function ResourcesButton(resources) {
+    if (resources==="") {
+        return '';
+    }else {
+    return `
+    <a href="${resources}" target="_blank">
+        <button class="button" style="margin-top: 30px; margin-bottom: 50px;">More Resources</button>
+    </a>
+    `
+    }
 }
