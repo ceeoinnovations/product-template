@@ -27,7 +27,7 @@
 3. Select `ceeoinnovations` as owner. Name the repository with your hackathon name. Make it `public`
 * Use **lowercase** for repository name
 * Repository name should be unique and it describes your product (e.g., SPIKE Prime Backpack) 
-4. Go to `index.js` and replace the existing csv file URLs (line #7, #8, #9) with yours. 
+4. Go to `index.js` and replace the existing csv file URLs (line #7 for about, #8 for themes, #9 for projects) with yours. 
 * To get links to your Google Sheets, open the spreadsheets; click `File` and then `Publish to the web`. Select `Entire Document` and `csv` then click `Publish`. The csv file URLs are for about, themes, and projects in order
 5. Go to `index.html` and edit title (line #4). 
 6. Go to `components/Navbar.js` and update the hyperlink with your GitHub repository name (line #7) 
