@@ -16,6 +16,7 @@
 4. In the form, click `Responses` and click More icon on the right. Click `Select response destination`. Choose an option of `Create a new spreadsheet`. Name that spreadsheet as `projects`
 * `projects`: all submitted project information
 6. Replace the placeholder text with your data in the `about`sheet
+* Do not edit any cell in the first row
 * `website`: you can get your website link once setting up GitHub
 * `form`: open the form in Google Drive and click `Send` and then `Link` tab to find a form link
 * `resources`: copy and paste a sharable link of the `Resources` folder
