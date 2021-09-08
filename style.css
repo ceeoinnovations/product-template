@@ -60,15 +60,15 @@ footer{
 }
 
 pre {
-    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: pre;       /* Since CSS 2.1 */
     display: flex-root;
     clear: both;
-    width: 100%;
+    width: 480px;
     background: #eee;
 }
 
 code {
-    border-radius: 15px;
+    /* border-radius: 15px; */
 }
 
 /* || header and main navigation */
