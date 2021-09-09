@@ -7,7 +7,7 @@
 1. Create a folder with your product name in this [CEEO Google Drive](https://drive.google.com/drive/folders/1Zw7Z4XYys5PYWmt3IgDSBJGUQ6AI8Yr0?usp=sharing). **Change sharing permission** of this folder so that `Anyone from CEEO can edit`
 2. Make a copy of the three files below in this [folder](https://drive.google.com/drive/folders/1QYH_SIuhGPQyQdSwdye5zqEzu_FLeaNi?usp=sharing) and move them to your folder in Google Drive
 * `about`: basic information required to build your website
-* `themes`: information about themes under the product
+* `themes`: high-level categories of projects
 * `Submission Form`: project submission form
 3. Create a folder named Resources
 * `Resources`: a folder where you can upload any files to share regarding the product. **Change sharing permission** of this folder so that `Anyone can view`
@@ -16,7 +16,7 @@
 4. In the form, click `Responses` and click More icon on the right. Click `Select response destination`. Choose an option of `Create a new spreadsheet`. Name that spreadsheet as `projects`
 * `projects`: all submitted project information
 6. Replace the placeholder text with your data in the `about`sheet
-* Do not edit any cells in the first row
+* Do not edit any cells in the first row of spreadsheets
 * `website`: you can get your website link once setting up GitHub
 * `form`: open the form in Google Drive and click `Send` and then `Link` tab to find a form link
 * `resources`: copy and paste a sharable link of the `Resources` folder
