@@ -20,7 +20,6 @@
 * `website`: you can get your website link once setting up GitHub
 * `form`: open the form in Google Drive and click `Send` and then `Link` tab to find a form link
 * `resources`: copy and paste a sharable link of the `Resources` folder
-* `image`: in case having an image on your home page is helpful, upload an image to the `Resources` folder and copy and paste a sharable link
 
 ## GitHub Setup ##
 1. Get invited as a member of [CEEO Innovations](https://github.com/ceeoinnovations) repository
