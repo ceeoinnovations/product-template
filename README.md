@@ -3,6 +3,8 @@
 * [Data (Google Drive)](https://drive.google.com/drive/folders/1QYH_SIuhGPQyQdSwdye5zqEzu_FLeaNi?usp=sharing)
 
 # How to build a Product Website Using Google Sheets #
+* [Video Tuturial](https://youtu.be/VapCknrpzP8)
+
 ## Google Drive Setup ##
 1. Create a folder with your product name in this [CEEO Google Drive](https://drive.google.com/drive/folders/1Zw7Z4XYys5PYWmt3IgDSBJGUQ6AI8Yr0?usp=sharing). **Change sharing permission** of this folder so that `Anyone from CEEO can edit`
 2. Make a copy of the three files below in this [folder](https://drive.google.com/drive/folders/1QYH_SIuhGPQyQdSwdye5zqEzu_FLeaNi?usp=sharing) and move them to your folder in Google Drive
