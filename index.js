@@ -4,9 +4,9 @@ import ProjectPage from './components/ProjectPage.js';
 import Navbar from './components/Navbar.js';
 
 Promise.all([
-      d3.csv("about-csv-link"),
-      d3.csv("themes-csv-link"),
-      d3.csv("projects-csv-link"),
+      d3.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTCITxeg4cEGAjKSdHMAYMkdGLeIJTGfu_U2MOERaPSR--y3JykZFF1lG8-qOtQQ4kuSMDZKZFIuTzk/pub?output=csv"),
+      d3.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTPfjFZ4QZOyOBjFdTJZEEbLYKXJ3QSvCCfdq___s-UCg03lg64HWFwJ4uern-Qfa7tJBkheN1wpyhI/pub?output=csv"),
+      d3.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSFxui62nCTuB5LupPgG7QUoPFYE2s25QqLqnGVwEjIDoUgE0WScXG1ENav6emGS_dyPeaNgqpGBZ0e/pub?output=csv"),
       ])
       .then(([about, themes, projects]) => {
         const data = {about, themes, projects};
