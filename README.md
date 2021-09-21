@@ -2,7 +2,7 @@
 * [Website](https://ceeoinnovations.github.io/hackathon-2021/)
 * [Data (Google Drive)](https://drive.google.com/drive/folders/1QYH_SIuhGPQyQdSwdye5zqEzu_FLeaNi?usp=sharing)
 
-# How to build a Product Website Using Google Sheets #
+# How to build a Product Website Using Google Spreadsheets #
 Watch [Video Tuturial](https://youtu.be/VapCknrpzP8)
 
 ## Google Drive Setup ##
